@@ -147,9 +147,9 @@ Participating in community service activities like blood donation, tree plantati
 - These are community service images
 
 <div align="center">
-<img src="https://github.com/Dik22sha/Secure-Network-Configuration-CPT-/blob/aebd0be17a889f5983a8b2e433df1bf491198793/blood%20donation.jpeg" width="30%">
-<img src="https://github.com/Dik22sha/Secure-Network-Configuration-CPT-/blob/aebd0be17a889f5983a8b2e433df1bf491198793/tree%20plantation.jpeg" width="30%">
-<img src="https://github.com/Dik22sha/Secure-Network-Configuration-CPT-/blob/aebd0be17a889f5983a8b2e433df1bf491198793/senior%20citizen.jpeg" width="30%">
+<img src="https://github.com/Dik22sha/Secure-Network-Configuration-CPT-/blob/049098e2e6d13cc97deb93725bf26fb54ccf22db/blood%20donation.jpg" width="30%">
+<img src="https://github.com/Dik22sha/Secure-Network-Configuration-CPT-/blob/049098e2e6d13cc97deb93725bf26fb54ccf22db/plant1.jpeg" width="30%">
+<img src="https://github.com/Dik22sha/Secure-Network-Configuration-CPT-/blob/049098e2e6d13cc97deb93725bf26fb54ccf22db/senior%20citizen.jpg" width="30%">
 </div>
 
 ---
